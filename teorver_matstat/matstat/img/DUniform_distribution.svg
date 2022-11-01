@@ -1,0 +1,23 @@
+<svg width="205.7mm" height="151.8mm" version="1.1" viewBox="0 0 205 151" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="translate(-2.246 -3.371)">
+  <rect x="2.246" y="3.371" width="205.7" height="151.8" fill="#fff"/>
+  <path d="m25.4 41.86h139" fill="#fff" stroke="#f00" stroke-dasharray="2, 2" stroke-miterlimit="100" stroke-width=".5" style="paint-order:fill markers stroke"/>
+  <circle id="b" cx="73.58" cy="41.86" r="2.1" fill="#00f"/>
+  <use transform="translate(20.51)" xlink:href="#b"/>
+  <use transform="translate(41.01)" xlink:href="#b"/>
+  <use transform="translate(61.52)" xlink:href="#b"/>
+  <use transform="translate(82.02)" xlink:href="#b"/>
+  <g fill="#00f">
+  <path id="a" d="m73.58 41.86v99.88" fill="#00f" stroke="#00f" stroke-dasharray="3,3" stroke-width=".7" />
+  </g>
+  <use transform="translate(20.51)" xlink:href="#a"/>
+  <use transform="translate(41.01)" xlink:href="#a"/>
+  <use transform="translate(61.52)" xlink:href="#a"/>
+  <use transform="translate(82.02)" xlink:href="#a"/>
+  <rect x="23.13" y="5.871" width="182.3" height="136" fill="none" stroke="#000"/>
+  <path d="m20.86 41.86h4.536" fill="#00f" stroke="#000" stroke-width=".5"/>
+  <g fill="#000000" font-family="'Times New Roman'" font-size="12px" text-anchor="middle">
+   <text><tspan x="10" y="46">1/n</tspan><tspan x="73" y="152">a</tspan><tspan x="156" y="152">b</tspan></text>
+  </g>
+ </g>
+</svg>
